@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94050888.css",
+    "main.js": "/static/js/main.0a5c8bca.js",
+    "static/media/blueCloudSky.jpg": "/static/media/blueCloudSky.308b61972c1fff8c3832.jpg",
+    "index.html": "/index.html",
+    "main.94050888.css.map": "/static/css/main.94050888.css.map",
+    "main.0a5c8bca.js.map": "/static/js/main.0a5c8bca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94050888.css",
+    "static/js/main.0a5c8bca.js"
+  ]
+}
